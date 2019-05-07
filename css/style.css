@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Project-structure v5.1.4 (https://startbootstrap.com/template-overviews/creative)
+ * Start Bootstrap - aneeshussain v5.1.4 (#)
  * Copyright 2013-2019 Mohsin Razzaq
- * Licensed under MIT (https://github.com/BlackrockDigital/project-structure/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/aneeshussain-institute/blob/master/LICENSE)
  */
 
 /*!
@@ -10551,4 +10551,16 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+.nav-container a img {
+  max-width: 15%;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.nav-container .nav-item {
+  margin-top: -50px;
+  overflow: hidden;
 }
