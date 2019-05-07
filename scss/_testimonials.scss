@@ -1,0 +1,23 @@
+.testimonials{
+
+}
+
+
+.testimonials-container{
+
+    margin-left: 50px;
+
+    .card{
+        display: inline-flex;
+        width: 300px;
+        margin: 20px;
+    }
+
+
+    h2{
+        padding: 10px;
+        margin: 10px;
+
+        text-align: center;
+    }
+}
