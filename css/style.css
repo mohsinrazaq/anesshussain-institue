@@ -10554,13 +10554,17 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .nav-container a img {
-  max-width: 15%;
+  max-width: 20%;
   width: auto;
   height: auto;
   overflow: hidden;
 }
 
-.nav-container .nav-item {
-  margin-top: -50px;
-  overflow: hidden;
+.form-container {
+  height: 500px;
+  background-color: lightgoldenrodyellow;
+}
+
+.form-container .container {
+  padding-top: 50px;
 }
